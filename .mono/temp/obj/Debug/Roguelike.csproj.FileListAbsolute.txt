@@ -1,0 +1,9 @@
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.csproj.AssemblyReference.cache
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.AssemblyInfoInputs.cache
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.AssemblyInfo.cs
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.csproj.CoreCompileInputs.cache
+D:\projects\Godot_engine\Roguelike\.mono\temp\bin\Debug\Roguelike.dll
+D:\projects\Godot_engine\Roguelike\.mono\temp\bin\Debug\Roguelike.pdb
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.dll
+D:\projects\Godot_engine\Roguelike\.mono\temp\obj\Debug\Roguelike.pdb
